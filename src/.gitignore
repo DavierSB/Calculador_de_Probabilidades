@@ -1,0 +1,9 @@
+*.[ao]
+*.la
+*.lai
+*.lo
+*.Po
+*.Plo
+*.Tpo
+
+prov
